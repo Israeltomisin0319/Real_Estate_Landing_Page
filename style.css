@@ -66,7 +66,7 @@ a {
     align-items: center; 
     background: 
         linear-gradient(to right, rgba(0,0,0,0.7), rgba(0,0,0,0.3)),
-        url('/img/hero_img.jpeg') center/cover no-repeat;
+        url('img/hero_img.jpeg') center/cover no-repeat;
 }
 
 .hero_text {
